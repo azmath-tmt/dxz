@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text> Hi!!! This is azmath........  </Text>
+      <Text> Hi!!! This is azmath........ I am coming from git checkout -b azmath..  </Text>
       <StatusBar style="auto" />
     </View>
   );
